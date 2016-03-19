@@ -11,7 +11,7 @@ This tool is comprised on a few mechanisims.
 
 It uses a Java Jar to interact with GemFire - Since GemFire is written in Java.
 
-As we all know, Java has some intersting use cases. I'm not a Java hater, but more of a polygot mindset. I'll step off my soapbox now. 
+As we all know, Java has some intersting use cases. I'm not a Java hater, but more of a polyglot mindset. I'll step off my soapbox now. 
 
 I've decided to use Erlang to interact with Java - there is a niffy library included in Erlang called the Jinterface. 
 
