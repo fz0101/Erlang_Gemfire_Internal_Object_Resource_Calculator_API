@@ -1,11 +1,9 @@
-# GemFire-Resource-Hunter
+## GemFire-Resource-Hunter
 
 
-## Is a tool that will spelunk memory, and other resources inside of 
+Is a tool that will spelunk memory, and other resources inside of 
 
-## GemFire. This is not a unheard of concept, but there are a few
-
-## wrinkles. 
+GemFire. This is not a unheard of concept, but there are a few wrinkles. 
 
 This tool is comprised on a few mechanisims. 
 
