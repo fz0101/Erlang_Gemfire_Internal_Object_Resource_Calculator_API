@@ -1,9 +1,11 @@
 ## GemFire-Resource-Hunter
 
 
-Is a tool that will spelunk memory, and other resources inside of 
+Is a tool that will spelunk memory, and other resources inside of GemFire.  
 
-GemFire. This is not a unheard of concept, but there are a few wrinkles. 
+You can throttle resource request to keep performance in GemFire without disruption.
+
+GemFire. This is not a unheard of concept, but there are a few wrinkles. First, this system  
 
 This tool is comprised on a few mechanisims. 
 
